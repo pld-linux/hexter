@@ -2,7 +2,7 @@ Summary:	Yamaha DX7 modeling software synthesizer for DSSI
 Summary(pl.UTF-8):	Syntezator programowy dla DSSI modelujący urządzenie Yamaha DX7
 Name:		hexter
 Version:	1.0.3
-Release:	2
+Release:	3
 License:	GPL v2+
 Group:		Applications/Sound
 Source0:	http://downloads.sourceforge.net/dssi/%{name}-%{version}.tar.bz2
